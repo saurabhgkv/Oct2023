@@ -1,0 +1,6 @@
+file3 - line 1
+<<<<<<< HEAD
+file3 - line 2 in master
+=======
+file3 - line 2
+>>>>>>> branch1
