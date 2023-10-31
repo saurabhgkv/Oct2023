@@ -1,1 +1,3 @@
 file2 - line 1
+file2 - line 2 in master
+file2 - branch2
